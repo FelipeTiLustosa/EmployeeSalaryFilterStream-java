@@ -1,4 +1,4 @@
-# Employee Salary Filter and Sum
+# Filter and sum employee salary using (Stream)
 
 ## Descrição
 Fazer um programa para ler os dados (nome, email e salário) de funcionários a partir de um arquivo em formato `.csv`.  
